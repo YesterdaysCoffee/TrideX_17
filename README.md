@@ -3,11 +3,11 @@ Two headed verson of Trident, aka IDEX Trident.  This is not intended for novice
 
 This is an updated version of TrideX by [eddietheengineer](https://github.com/FrankenVoron/Tridex).
 
-# Version 0.1
+# Version 0.5
 This version is ready for advanced users to start the build process.  I'm comfortable each piece good to go and expect some more modifications and tweeks in the near future.  The last major addition will be the bottom deck supports and z-motor guards.
 Yet to be included:
-BOM
-Documentation and assembly guide (not my strong suit)
+see to do list below.
+
 # Features and Improvements:
 ```
 NEMA 17 steppers for X and Y
@@ -31,4 +31,18 @@ Warning: 200mm depth will make fitting electronics a challange (it didn't work f
 # Notes:
 Using a square build plate will be easiest to source.
 
+# To do:
+```
+Add skirts, corners, feet, folding deck to CAD
+Add BOM
+Include description of certain parts, such heat insert size to BOM
+Add photos, well duh.
+include link to current "active" IDEX macro developer(s).
+Ponder improvement of belt threading for XY drives.
+Add assembly tips and tricks
+```
 
+# Got Comments, suggestions, gripes, pizza, praise, flames, offers to help?
+Mac McCaskie --> <NameNoSpaces> yahoo com (you know where to put the punctuation)
+
+Mostly I need someone else to assemble this and critique the process.
