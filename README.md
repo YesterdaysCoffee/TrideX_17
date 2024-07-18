@@ -1,18 +1,25 @@
 # TrideX_17
 Two headed verson of Trident, aka IDEX Trident.  This is not intended for novice users, kits and tutorials are not available.  Documentation will be minimal.  My main goal is to print one filament with a support filament.  Klipper now supports dual head printing for printing two copies at a time.  At some time in the future I will add a method to indepentantly adjust the height of the second Head.
 
+![Front View.](https://github.com/YesterdaysCoffee/TrideX_17/images/front left.png)
+
 This is an updated version of TrideX by [eddietheengineer](https://github.com/FrankenVoron/Tridex).
 
-Active developement of IDEX macros can be found here: [https://github.com/joseph-greiner/tridex_mods/tree/main/printer_configuration]  (as of 2024-7-16).
+Active developement of IDEX macros can be found here: [joseph-greiner's IDEX code][https://github.com/joseph-greiner/tridex_mods/tree/main/printer_configuration]  (as of 2024-7-16).
 
 # Version 0.5
-This version is ready for advanced users to start the build process.  I'm comfortable each piece good to go and expect some more modifications and tweeks in the near future. 
-Yet to be included:  (see "to do" list below.)
+This version uses my favored toolhead, probe, hotend and endstop switches.  Depending on popularity and demand, other options can be included.
+Assembly depends on using 3mm and 5mm heat set inserts, some stls have variations using 5mm nuts.
+Toolhead: Dragon Burner (it is relatively narrow)
+Bed probe: PCB Klicky
+Hotend: Rapido HF, other non-high-flow HE's will likely work
+Endstops: Mecanical snap switches, Imron D2HW-A201D.
+Toolhead wiring?  CANbus only (well, maybe USB...)
 
 # Features and Improvements:
 ```
 NEMA 17 steppers for X and Y
-Belted Z using standard NEMA 17 motors and standard design from VORON Design, with changes.
+Belted Z using standard NEMA 17 motors and standard design from VORON Design and MathmaticalPotato, with changes.
 Improved belt path and belt assembly
 ```
 # Skirts & Corners: 
