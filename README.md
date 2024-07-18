@@ -1,7 +1,7 @@
 # TrideX_17
 Two headed verson of Trident, aka IDEX Trident.  This is not intended for novice users, kits and tutorials are not available.  Documentation will be minimal.  My main goal is to print one filament with a support filament.  Klipper now supports dual head printing for printing two copies at a time.  At some time in the future I will add a method to indepentantly adjust the height of the second Head.
 
-![Front View.]([https://github.com/YesterdaysCoffee/TrideX_17/images/front left.png](https://github.com/YesterdaysCoffee/TrideX_17/blob/main/images/front%20left.png))
+![Front View.](https://github.com/YesterdaysCoffee/TrideX_17/images/front%20left.png)
 
 This is an updated version of TrideX by [eddietheengineer](https://github.com/FrankenVoron/Tridex).
 
