@@ -40,17 +40,19 @@ Warning: 200mm depth will make fitting electronics a challange (it didn't work f
 [TridX-17 BOM](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPtPn4Brcn_vidSKCY5Uy1v6KD8oOBtxnAigVPllrFKF_peJibIDPYqSZS3NHdLf7wJWIKfuaN0-26/pubhtml)
 
 # Notes:
+```
 -->Many STL's found here are not compatible with anything else.  The Z-drive, XY-drive assembly and XY joints have all been tweeked for alignment, clearance and assembly.
 -->Using a square build plate will be easiest to source.
 -->My Firmware files (printer.cfg) are still in developemnt, use them as a starting point for your build.
 -->I planned a build volumn of 250 x 250 x 200 (length x width by height).
 -->Use the CAD file for assembly guidance only, the STL's in the CAD may be out of date.
+```
 
 # To do:
 ```
 Add folding deck to CAD
 Include detailed description of certain parts, such heat insert size in the BOM
-Add photos, well duh.
+Add more photos, well duh.
 Ponder improvement in ease of belt threading for XY drives.
 Add assembly tips and tricks
 ```
