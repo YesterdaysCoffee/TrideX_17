@@ -37,7 +37,7 @@ Frame Size uses standards from Voron Trident: 250, 300 & 350mm with the addition
 Warning: 200mm depth will make fitting electronics a challange (it didn't work for me).
 
 # The BOM is here:
-(TridX-17 BOM)(https://docs.google.com/spreadsheets/d/1CbDP7zm5K3GdYLsManCU1-5Ye_r_lTrwqWS-yqpU0u4/edit?usp=sharing)
+[TridX-17 BOM](https://docs.google.com/spreadsheets/d/1CbDP7zm5K3GdYLsManCU1-5Ye_r_lTrwqWS-yqpU0u4/edit?usp=sharing)
 
 # Notes:
 -->Many STL's found here are not compatible with anything else.  The Z-drive, XY-drive assembly and XY joints have all been tweeked for alignment, clearance and assembly.
