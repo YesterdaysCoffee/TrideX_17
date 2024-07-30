@@ -10,11 +10,11 @@ Active developement of IDEX macros can be found here: [joseph-greiner's IDEX cod
 # Version 0.7
 This version uses my favored toolhead, probe, hotend and endstop switches.  Depending on popularity and demand, other options can be included.
 Assembly depends on using 3mm and 5mm heat set inserts, some stls have variations using 5mm nuts.
-Toolhead: Dragon Burner (it is relatively narrow)
-Bed probe: PCB Klicky
-Hotend: Rapido HF, other non-high-flow HE's will likely work
-Endstops: Mecanical snap switches, Imron D2HW-A201D.
-Toolhead wiring?  CANbus only (well, maybe USB...)
+  - Toolhead: Dragon Burner (it is relatively narrow)
+  - Bed probe: PCB Klicky
+  - Hotend: Rapido HF, other non-high-flow HE's will likely work
+  - Endstops: Mecanical snap switches, Imron D2HW-A201D.
+  - Toolhead wiring?  CANbus only (well, maybe USB...)
 
 # Features and Improvements:
 ```
