@@ -7,7 +7,7 @@ This is an updated version of TrideX by [eddietheengineer](https://github.com/Fr
 
 Active developement of IDEX macros can be found here: [joseph-greiner's IDEX code][https://github.com/joseph-greiner/tridex_mods/tree/main/printer_configuration]  (as of 2024-7-16).
 
-# Version 0.5
+# Version 0.7
 This version uses my favored toolhead, probe, hotend and endstop switches.  Depending on popularity and demand, other options can be included.
 Assembly depends on using 3mm and 5mm heat set inserts, some stls have variations using 5mm nuts.
 Toolhead: Dragon Burner (it is relatively narrow)
@@ -36,6 +36,9 @@ The extra 100mm width and narrow tool heads like the Dragon Burner gives the idl
 Frame Size uses standards from Voron Trident: 250, 300 & 350mm with the addition of 400mm for X axis and 200mm on Y axis.  Note, the rear gantry support extrusion is shorter than standard.
 Warning: 200mm depth will make fitting electronics a challange (it didn't work for me).
 
+# The BOM is here:
+(TridX-17 BOM)(https://docs.google.com/spreadsheets/d/1CbDP7zm5K3GdYLsManCU1-5Ye_r_lTrwqWS-yqpU0u4/edit?usp=sharing)
+
 # Notes:
 -->Many STL's found here are not compatible with anything else.  The Z-drive, XY-drive assembly and XY joints have all been tweeked for alignment, clearance and assembly.
 -->Using a square build plate will be easiest to source.
@@ -45,11 +48,9 @@ Warning: 200mm depth will make fitting electronics a challange (it didn't work f
 
 # To do:
 ```
-Add skirts, corners, feet, folding deck to CAD
-Add BOM
+Add folding deck to CAD
 Include detailed description of certain parts, such heat insert size in the BOM
 Add photos, well duh.
-include link to current "active" IDEX macro developer(s).
 Ponder improvement in ease of belt threading for XY drives.
 Add assembly tips and tricks
 ```
