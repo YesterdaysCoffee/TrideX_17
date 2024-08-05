@@ -54,6 +54,6 @@ Warning: 200mm depth will make fitting electronics a challenge (it didn't work f
 - [] Find micro-adjustable tool-head leveling system
 
 # Got Comments, suggestions, gripes, pizza, praise, flames, offers to help?
-Mac McCaskie --> <NameNoSpaces> yahoo com (you know where to put the punctuation)
+Mac McCaskie --> yahoo com (no spaces, you know where to put the punctuation)
 
 Please drop a line if you build this, thanks.
