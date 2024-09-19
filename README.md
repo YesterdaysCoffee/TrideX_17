@@ -1,5 +1,5 @@
 # TrideX_17
-Two headed version of Trident, aka IDEX Trident.  This is intended for experienced users.  Klipper now supports copy printing for printing two copies at a time, however leveling nozzles can be tricky.  In the future a method to adjust the height of the second head will be added.
+Two headed version of Trident, aka TridenX. Changes include: NEMA 17 steppers for X & Y axis & improved belt assembly.  Generally intended for experienced builders due to lack of step-by-step instructions.  Klipper now supports copy printing for printing two copies at a time, however leveling nozzles can be tricky.  In the future a method to adjust the height of the second head will be added.
 
 ![Front View.](images/front%20left.png)
 
@@ -8,8 +8,8 @@ This is an updated version of TrideX by [eddietheengineer](https://github.com/Fr
 Active development of IDEX macros can be found here: [joseph-greiner's IDEX code](https://github.com/joseph-greiner/tridex_mods/tree/main/printer_configuration)  (as of 2024-7-16).
 
 # Version 0.7
-This version uses my favored tool-head, probe, hot-end and end-stop switches.  Depending on popularity and demand, other options can be included.
-Assembly depends on using 3mm and 5mm heat set inserts, some stls have variations using 5mm nuts.
+This version uses my favored tool-head, probe, hot-end and end-stop switches.  Depending on popularity and demand, other options can be included (contact me).
+Assembly depends on using 3mm and 5mm heat set inserts, some stls have variations using 5mm nuts.  My build used the following and I encourage you to use your favored accessories:
   - Tool-head: Dragon Burner (it is relatively narrow)
   - Bed probe: PCB Klicky, Chartographer 3D being tested
   - Hot-end: Rapido HF, other non-high-flow HE's will likely work
