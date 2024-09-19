@@ -34,8 +34,11 @@ Typical sizes using square build plates:
   - 250mm, use 250mm sides & 350mm Front/rear
   - 300mm, use 300mm sides & 400mm Front/rear
   - 350mm, use 350mm sides & (450mm these can be produced, contact me!)
+  - 
 A good starting point is a 250mm X 250mm build plate with frame size of 350mm width X 250mm depth.
+
 The extra 100mm width and narrow tool heads like the Dragon Burner gives the idle tool head space to park out-of-the-way. An additional 50mm depth is not a bad idea.
+
 In truth any size can be built, the skirts limit frame size options.  Be aware a long X-gantry rail/beam may be problematic.
 
 Frame Size uses standards from Voron Trident: 250, 300 & 350mm with the addition of 400mm for X axis and 200mm on Y axis.  Note, the rear gantry support extrusion is shorter than standard.
