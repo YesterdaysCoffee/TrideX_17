@@ -11,7 +11,7 @@ Active development of IDEX macros can be found here: [joseph-greiner's IDEX code
 This version uses my favored tool-head, probe, hot-end and end-stop switches.  Depending on popularity and demand, other options can be included.
 Assembly depends on using 3mm and 5mm heat set inserts, some stls have variations using 5mm nuts.
   - Tool-head: Dragon Burner (it is relatively narrow)
-  - Bed probe: PCB Klicky
+  - Bed probe: PCB Klicky, Chartographer 3D being tested
   - Hot-end: Rapido HF, other non-high-flow HE's will likely work
   - End-stops: Mechanical snap switches, Imron D2HW-A201D.
   - Tool-head wiring?  CANbus only (well, maybe USB...)
@@ -28,9 +28,15 @@ Assembly depends on using 3mm and 5mm heat set inserts, some stls have variation
 
   - Electronics bay accessible from the chamber (no more flipping upside down)
 
-# Sizing considerations:
+# Sizing:
+Typical sizes using square build plates:
+  - 200mm, use 200mm sides & 300mm Front/rear, note: electronics bay will be very croweded.
+  - 250mm, use 250mm sides & 350mm Front/rear
+  - 300mm, use 300mm sides & 400mm Front/rear
+  - 350mm, use 350mm sides & (450mm these can be produced, contact me!)
 A good starting point is a 250mm X 250mm build plate with frame size of 350mm width X 250mm depth.
 The extra 100mm width and narrow tool heads like the Dragon Burner gives the idle tool head space to park out-of-the-way. An additional 50mm depth is not a bad idea.
+In truth any size can be built, the skirts limit frame size options.  Be aware a long X-gantry rail/beam may be problematic.
 
 Frame Size uses standards from Voron Trident: 250, 300 & 350mm with the addition of 400mm for X axis and 200mm on Y axis.  Note, the rear gantry support extrusion is shorter than standard.
 Warning: 200mm depth will make fitting electronics a challenge (it didn't work for me).
@@ -41,15 +47,12 @@ Warning: 200mm depth will make fitting electronics a challenge (it didn't work f
 # Notes:
   - Many STL's found here are not compatible with anything else.  The Z-drive, XY-drive assembly and XY joints have all been tweaked for alignment, clearance and assembly.
   - Using a square build plate will be easiest to source.
-  - My Firmware files (printer.cfg) are still in development, use them as a starting point for your build.
-  - I planned a build volume of 250 x 250 x 200 (length x width by height).
+  - My Firmware files (printer.cfg) are still in development, please depend on [joseph-greiner's IDEX code](https://github.com/joseph-greiner/tridex_mods/tree/main/printer_configuration)
   - Use the CAD file for assembly guidance only, the STL's in the CAD may be out of date.
 
 # To do:
-- [] Add folding deck to CAD
+- [] Add folding deck to CAD (piano hinges)
 - [] Include detailed description of certain parts, such heat insert size in the BOM
-- [] Add more photos, well duh.
-- [] Ponder improvement in ease of belt threading for XY drives.
 - [] Add assembly tips and tricks
 - [] Find micro-adjustable tool-head leveling system
 
