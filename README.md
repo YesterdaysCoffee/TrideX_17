@@ -35,7 +35,7 @@ Yes, I have started drawing up a gantry using 9mm X/Y belts.  I expect the X lin
 My recommended sizing.  Take your build plate size and:
   - Add 100mm to X (width)
   - Add 50mm to Y (depth)
-  - Due to builder comments, this has changed from my original suggestions.
+
 Typical sizes using square build plates:
   - 200mm, use 250mm sides & 300mm Front/rear, note: electronics bay will be very croweded.
   - 250mm, use 300mm sides & 350mm Front/rear
