@@ -48,7 +48,7 @@ A good starting point is a 250mm X 250mm build plate with frame size of 350mm wi
 - Trident's original Z-drive fits fine, use the original Trident skirts and electronic bay assembly.
 - Conversion of a Trident to TrideX-17 has been done. I don't know if the same build plate was used but I'd suggest using a smaller build plate.
 - Extra width gives enough space for the idle toolhead to park out if the way.
-- Extra depth is needed for the wider X/Y drive and any additional accessories you will use back there. 
+- Extra depth is needed for the wider X/Y drive assembly and any additional accessories you will use back there. 
 
 In truth any size can be built, it's the skirts which limit frame size options.  Be aware with a very long X-gantry might be problematic.
 
