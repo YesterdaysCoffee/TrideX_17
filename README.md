@@ -17,7 +17,7 @@ Assembly depends on using 3mm and 5mm heat set inserts, some stls have variation
   - Tool-head wiring?  CANbus only (well, maybe USB...)
 
 # 9mm Belts?
-Yes, I have started drawing up a gantry using 9mm X/Y belts.  I expect the X linear rail will change.
+Yes, I have started drawing up a gantry using 9mm X/Y belts.  The X linear rail might change.
 
 # Features and Improvements:
   - NEMA 17 steppers for X and Y
@@ -54,9 +54,10 @@ In truth any size can be built, it's the skirts which limit frame size options. 
 
 Frame Size uses standards from Voron Trident: 250, 300 & 350mm with the addition of 400mm for X axis and 200mm on Y axis.  Note, the rear gantry support extrusion is shorter than standard.
 Warning: 200mm depth will make fitting electronics a challenge (it didn't work for me).
+# Extra Files:
+[TridX-17 BOM](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPtPn4Brcn_vidSKCY5Uy1v6KD8oOBtxnAigVPllrFKF_peJibIDPYqSZS3NHdLf7wJWIKfuaN0-26/pubhtml) updated 11-11-2024.
 
-# The BOM is here:
-[TridX-17 BOM](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPtPn4Brcn_vidSKCY5Uy1v6KD8oOBtxnAigVPllrFKF_peJibIDPYqSZS3NHdLf7wJWIKfuaN0-26/pubhtml)
+[TridX-17 Change Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vTWaBhZNpjk6NEAdd5VofSHPy5cyr7JOfr-hXRtq54E_nhzI_LgpVOrBIPudIq8-uXfLt_XMnXbr9e0/pubhtml) updated 11-11-2024.
 
 # Notes:
   - Many STL's found here are not compatible with anything else.  The Z-drive, XY-drive assembly and XY joints have all been tweaked for alignment, clearance and assembly.
